@@ -1,0 +1,45 @@
+.head{
+    background: 
+    url(../img/macaron.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.btn-outline-success {
+    color: #171918;
+    border-color: #232423;
+}
+.esp {
+    margin-left: 230px;
+}
+.espc {
+    margin-left: 230px;
+}
+.titre{
+    margin-top: 100px;
+    font-family: fantasy;
+    text-align: center;
+    background-color: transparent;
+}
+.para{
+    margin-top: 300px;
+    background-color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 46px;
+    margin-left: 147px;
+    margin-right: 130px;
+
+}
+.tit{
+    margin-top: 20px;
+}
